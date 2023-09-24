@@ -22,3 +22,4 @@ Here is the link the the walkthrough video;
 Here is the link to the GitHub repository with the source code; 
 
 Here is a screenshot of a sample README.md file using my application;
+![Screen shot of deployed application](./Develop/screenshot%20of%20readme%20generator.png)

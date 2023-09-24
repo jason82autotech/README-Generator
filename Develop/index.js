@@ -3,8 +3,7 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 // TODO: Create an array of questions for user input
-inquirer
-  .prompt([
+const questions = [
     {
       type: 'input',
       message: 'What is your project title?',
@@ -35,7 +34,7 @@ inquirer
         message: 'What are some test instructions?',
         name: 'tests',
     },
-    ])
+    ];
 function generateMarkdown(data) {
 
   return `# ${data.title}

@@ -1,1 +1,28 @@
-{"title":"How to hammer stuff!","Description":"Hammering stuff!","Installation":"With a hammer!","Usage":"Hammering!","Contributing":"Use a hammer!","Tests":"Test with a hammer!"}
+# How to hit stuff with hammers!
+
+## Description
+
+How to hit stuff with hammers!
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage) 
+- [Contributing](#contributing)
+- [Tests](#tests)
+
+## Installation
+
+With a hammer!
+
+## Usage
+
+Hammering!
+
+## Contributing 
+
+Use a hammer!
+
+## Tests
+
+Test with hammer!
