@@ -1,8 +1,8 @@
-# How to hit stuff with hammers!
+# How to hammer stuff!
 
 ## Description
 
-How to hit stuff with hammers!
+Hammering stuff!
 
 ## Table of Contents
 
@@ -21,8 +21,8 @@ Hammering!
 
 ## Contributing 
 
-Use a hammer!
+Use only a hammer!
 
 ## Tests
 
-Test with hammer!
+Test with hammer only!
