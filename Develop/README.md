@@ -1,0 +1,1 @@
+{"title":"How to hammer stuff!","Description":"Hammering stuff!","Installation":"With a hammer!","Usage":"Hammering!","Contributing":"Use a hammer!","Tests":"Test with a hammer!"}
