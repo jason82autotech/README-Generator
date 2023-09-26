@@ -20,7 +20,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 Here is the link the the walkthrough video;
-https://drive.google.com/file/d/1LNiP1H5s7iZQoeFVXLW9qWiF1kCBismB/view
+https://drive.google.com/file/d/1r3jPaeAT7NMPuWgJifCuj3viCaK55im9/view
 
 Here is the link to the GitHub repository with the source code; 
 https://github.com/jason82autotech/README-Generator

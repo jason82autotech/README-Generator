@@ -1,9 +1,9 @@
-# How to hammer things!
+# How to hammer stuff!
 ![Github License](https://img.shields.io/badge/license-GNU_GPLv3-blue)
 
 ## Description
 
-Hammering things!
+Hammering stuff!
 
 ## Table of Contents
 
