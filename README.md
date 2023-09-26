@@ -26,4 +26,4 @@ Here is the link to the GitHub repository with the source code;
 https://github.com/jason82autotech/README-Generator
 
 Here is a screenshot of a sample README.md file using my application;
-![Screen shot of deployed application](./Develop/screenshot%20of%20readme%20generator.png)
+![Screen shot of deployed application](./README%20generator%20screenshot.png)
