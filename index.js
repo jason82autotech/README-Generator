@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -34,46 +35,17 @@ const questions = [
         message: 'What are some test instructions?',
         name: 'tests',
     },
+    {
+      type: 'list',
+      message: 'Choose license type',
+      name: 'license',
+      choices: [
+        'Apache_2.0',
+        'GNU_GPLv3',
+        'No License',
+      ]
+  },
     ];
-function generateMarkdown(data) {
-
-  return `# ${data.title}
-
-## Description
-
-${data.description}
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage) 
-- [Contributing](#contributing)
-- [Tests](#tests)
-
-## Installation
-
-${data.installation}
-
-## Usage
-
-${data.usage}
-
-## Contributing 
-
-${data.contributing}
-
-## Tests
-
-${data.tests}
-`;
-
-}
-
-module.exports = generateMarkdown;
-
-
-
-
 
 // TODO: Create a function to initialize app
 function init() {
@@ -83,7 +55,7 @@ function init() {
 
       const markdown = generateMarkdown(responses);
 
-      fs.writeFile('README.md', markdown, {flag: 'w'}, err => {
+      fs.writeFile('generatedREADME.md', markdown, {flag: 'w'}, err => {
         if (err) throw err;
         console.log('README generated!');
       });
