@@ -77,6 +77,14 @@ ${data.contributing}
 
 ${data.tests}
 
+## Email
+
+${data.email}
+
+## GitHub
+
+${data.github}
+
 ${renderLicenseSection(data.license)}
 `;
 }

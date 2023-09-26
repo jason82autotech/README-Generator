@@ -1,9 +1,9 @@
-# How to hammer stuff!
-![Github License](https://img.shields.io/badge/license-Apache_2.0-blue)
+# How to hammer things!
+![Github License](https://img.shields.io/badge/license-GNU_GPLv3-blue)
 
 ## Description
 
-Hammering stuff 101!
+Hammering things!
 
 ## Table of Contents
 
@@ -29,8 +29,16 @@ Use a hammer!
 
 ## Tests
 
-Test with a hammer
+Test with a hammer!
+
+## Email
+
+jason82autotech@gmail.com
+
+## GitHub
+
+jason82autotech
 
 ## License
 
-  This project is licensed under the Apache_2.0 license.
+  This project is licensed under the GNU_GPLv3 license.
