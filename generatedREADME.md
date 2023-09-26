@@ -1,9 +1,9 @@
-# stug
-![Github License](https://img.shields.io/badge/license-GNU_GPLv3-blue)
+# How to hammer stuff!
+![Github License](https://img.shields.io/badge/license-Apache_2.0-blue)
 
 ## Description
 
-rgrgg
+Hammering stuff 101!
 
 ## Table of Contents
 
@@ -11,24 +11,26 @@ rgrgg
 - [Usage](#usage) 
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Email](#email)
+- [GitHub](#github)
 - [License](#license)
 
 ## Installation
 
-fwdfg
+With a hammer!
 
 ## Usage
 
-hbgfrfg
+Hammering!
 
 ## Contributing 
 
-tgfgvf
+Use a hammer!
 
 ## Tests
 
-tgtgf
+Test with a hammer
 
 ## License
 
-  This project is licensed under the GNU_GPLv3 license.
+  This project is licensed under the Apache_2.0 license.

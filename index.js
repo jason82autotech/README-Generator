@@ -36,6 +36,16 @@ const questions = [
         name: 'tests',
     },
     {
+      type: 'input',
+      message: 'What is your email address?',
+      name: 'email',
+    },
+    {
+    type: 'input',
+    message: 'What is you GitHub account name?',
+    name: 'github',
+    },
+    {
       type: 'list',
       message: 'Choose license type',
       name: 'license',

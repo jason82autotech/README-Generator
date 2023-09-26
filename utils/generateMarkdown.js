@@ -57,6 +57,8 @@ ${data.description}
 - [Usage](#usage) 
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Email](#email)
+- [GitHub](#github)
 ${renderLicenseLink(data.license)}
 
 ## Installation
