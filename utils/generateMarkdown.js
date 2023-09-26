@@ -18,11 +18,11 @@ function renderLicenseLink(license) {
   }
 
   if(license === "Apache_2.0") {
-    return `## Table of Contents - [License](#license)`;
+    return `- [License](#license)`;
   }
 
   if(license === "GNU_GPLv3") {
-    return ``; 
+    return `- [License](#license)`; 
   }
 
   // Add cases for other licenses
@@ -57,6 +57,7 @@ ${data.description}
 - [Usage](#usage) 
 - [Contributing](#contributing)
 - [Tests](#tests)
+${renderLicenseLink(data.license)}
 
 ## Installation
 
